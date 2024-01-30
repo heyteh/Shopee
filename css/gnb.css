@@ -48,6 +48,8 @@
     margin-right: auto;
     border: none;
     border-radius: 2px;
+
+    padding-left: 10px;
 }
 .search-box > button {
     background-color: #f53d2d;
